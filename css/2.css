@@ -1,0 +1,11 @@
+body{
+	margin: 15em;
+	padding: 0;
+	background-color: beige;
+}
+
+h1{
+	font-family: arial;
+	background-color: skyblue;
+	text-align: center;
+}
